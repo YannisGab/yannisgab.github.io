@@ -95,6 +95,13 @@ h2 {
     padding-bottom: 8px;
 }
 
+.bienvenue {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+    text-align: center;
+    color: #333;
+}
+
 h3 {
     margin-top: 20px;
     color: #0052cc;
